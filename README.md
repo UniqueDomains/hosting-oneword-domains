@@ -68,7 +68,7 @@ print(df.head())
 | auto.hosting       | resell    | —         | —             | 68             | 45     | 4      | Spaceship, Inc.                    |
 | converse.hosting   | premium   | $1,690    | $1,690        | 64             | 73     | 8      | namecheap                          |
 | seventeen.hosting  | available | $398      | —             | 84             | 62     | 9      | namecheap                          |
-| craft.hosting      | resell    | —         | —             | 70             | 41     | 5      | 1API GmbH                          |
+| craft.hosting      | resell    | —         | —             | 70             | 42     | 5      | 1API GmbH                          |
 | nationwide.hosting | premium   | $1,690    | $1,690        | 76             | 66     | 10     | namecheap                          |
 | zero.hosting       | available | $398      | —             | 112            | 53     | 4      | namecheap                          |
 | review.hosting     | resell    | —         | —             | 94             | 39     | 6      | Epik LLC                           |
