@@ -1,22 +1,22 @@
-# Available .HOSTING One-Word Domains (9,660)
+# Available .HOSTING One-Word Domains (12,096)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C660%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C660%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C096%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .hosting one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .hosting one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,096 domains** on the canonical page below.
 
-**Public extract:** 9,660 rows · **Live catalog:** 9,660 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,096 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/hosting`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HOSTING one-word doma
 
 ### Files
 
-- `hosting.csv` — public CSV extract (9,660 rows)
-- `hosting.json` — public JSON extract (9,660 rows)
+- `hosting.csv` — public CSV extract (1,000 rows)
+- `hosting.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| power.hosting      | available | $398      | —             | 98             | 62     | 5      | namecheap                          |
-| auto.hosting       | resell    | —         | —             | 68             | 45     | 4      | Spaceship, Inc.                    |
-| converse.hosting   | premium   | $1,690    | $1,690        | 64             | 73     | 8      | namecheap                          |
-| seventeen.hosting  | available | $398      | —             | 84             | 62     | 9      | namecheap                          |
-| craft.hosting      | resell    | —         | —             | 70             | 42     | 5      | 1API GmbH                          |
-| nationwide.hosting | premium   | $1,690    | $1,690        | 76             | 66     | 10     | namecheap                          |
-| zero.hosting       | available | $398      | —             | 112            | 53     | 4      | namecheap                          |
-| review.hosting     | resell    | —         | —             | 94             | 39     | 6      | Epik LLC                           |
-| ace.hosting        | premium   | $1,690    | $1,690        | 88             | 57     | 3      | namecheap                          |
-| business.hosting   | available | $398      | —             | 100            | 53     | 8      | namecheap                          |
-| virtual.hosting    | resell    | —         | —             | —              | 39     | 7      | 1API GmbH                          |
-| data.hosting       | premium   | $1,690    | $1,690        | 70             | 56     | 4      | namecheap                          |
-| athletics.hosting  | available | $398      | —             | 69             | 52     | 9      | namecheap                          |
-| short.hosting      | resell    | —         | —             | 76             | 36     | 5      | Namecheap                          |
-| alpha.hosting      | premium   | $1,690    | $1,690        | 90             | 53     | 5      | namecheap                          |
-| clear.hosting      | available | $398      | —             | 90             | 49     | 5      | namecheap                          |
-| cheap.hosting      | resell    | —         | —             | 110            | 30     | 5      | Global Domains International, Inc. |
-| one.hosting        | premium   | $1,690    | $1,690        | 132            | 50     | 3      | namecheap                          |
-| real.hosting       | available | $398      | —             | 78             | 49     | 4      | namecheap                          |
-| marijuana.hosting  | resell    | —         | —             | 67             | 30     | 9      | 1API GmbH                          |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| winners.hosting       | available | $309.99   | $329.99       | 60             | 81     | 7      | namesilo  |
+| discount.hosting      | resell    | —         | —             | 74             | 28     | 8      | 1API GmbH |
+| regions.hosting       | premium   | $1,820    | $1,820        | 64             | 59     | 7      | namecheap |
+| RedSox.hosting        | available | $398      | —             | 72             | 60     | 7      | namecheap |
+| doctors.hosting       | premium   | $1,820    | $1,820        | 56             | 26     | 7      | namecheap |
+| keepthechange.hosting | available | $398      | —             | 46             | 59     | 15     | namecheap |
+| comics.hosting        | premium   | $1,820    | $1,820        | 68             | 24     | 6      | namecheap |
+| agents.hosting        | available | $398      | —             | 56             | 50     | 6      | namecheap |
+| signs.hosting         | premium   | $1,820    | $1,820        | 64             | 22     | 5      | namecheap |
+| jobs.hosting          | available | $398      | —             | 79             | 42     | 4      | namecheap |
+| stronger.hosting      | premium   | $1,820    | $1,820        | 67             | 19     | 8      | namecheap |
+| coins.hosting         | available | $398      | —             | 56             | 41     | 5      | namecheap |
+| bills.hosting         | premium   | $1,820    | $1,820        | 54             | 19     | 5      | namecheap |
+| shortcuts.hosting     | available | $398      | —             | 48             | 41     | 10     | namecheap |
+| boxes.hosting         | premium   | $1,820    | $1,820        | 50             | 16     | 5      | namecheap |
+| lets.hosting          | available | $398      | —             | 77             | 39     | 4      | namecheap |
+| instyle.hosting       | premium   | $1,820    | $1,820        | 78             | 12     | 8      | namecheap |
+| aliens.hosting        | available | $309.99   | $329.99       | 56             | 35     | 6      | namesilo  |
+| studs.hosting         | premium   | $1,820    | $1,820        | 69             | 7      | 5      | namecheap |
+| spectra.hosting       | available | $398      | —             | 62             | 34     | 7      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,660-row public sample | 9,660 live domains                               |
+| 1,000-row public sample | 12,096 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
