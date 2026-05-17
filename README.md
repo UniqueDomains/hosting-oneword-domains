@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hosting one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,637 domains · **Median ask:** $414.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/hosting`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | RedSox.hosting    | available | $398      | —             | 72             | 60     | 7      | namecheap |
 | doctors.hosting   | premium   | $1,820    | $1,820        | 56             | 26     | 7      | namecheap |
 | agents.hosting    | available | $398      | —             | 56             | 50     | 6      | namecheap |
-| comics.hosting    | premium   | $1,820    | $1,820        | 68             | 24     | 6      | namecheap |
+| comics.hosting    | premium   | $1,820    | $1,820        | 68             | 23     | 6      | namecheap |
 | jobs.hosting      | available | $398      | —             | 79             | 42     | 4      | namecheap |
 | stronger.hosting  | premium   | $1,820    | $1,820        | 67             | 19     | 8      | namecheap |
 | coins.hosting     | available | $398      | —             | 56             | 41     | 5      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
