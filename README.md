@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hosting one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,637 domains · **Median ask:** $414.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/hosting`  
 **Best for:** founders, investors, studios
 
@@ -72,9 +72,9 @@ print(df.head())
 | agents.hosting    | available | $398      | —             | 56             | 50     | 6      | namecheap |
 | comics.hosting    | premium   | $1,820    | $1,820        | 68             | 23     | 6      | namecheap |
 | jobs.hosting      | available | $398      | —             | 79             | 42     | 4      | namecheap |
-| stronger.hosting  | premium   | $1,820    | $1,820        | 67             | 19     | 8      | namecheap |
-| coins.hosting     | available | $398      | —             | 56             | 41     | 5      | namecheap |
 | bills.hosting     | premium   | $1,820    | $1,820        | 54             | 19     | 5      | namecheap |
+| coins.hosting     | available | $398      | —             | 56             | 41     | 5      | namecheap |
+| stronger.hosting  | premium   | $1,820    | $1,820        | 67             | 17     | 8      | namecheap |
 | shortcuts.hosting | available | $398      | —             | 48             | 41     | 10     | namecheap |
 | beaches.hosting   | premium   | $1,729    | $1,729        | 72             | 14     | 7      | namesilo  |
 | lets.hosting      | available | $398      | —             | 77             | 39     | 4      | namecheap |
@@ -82,7 +82,7 @@ print(df.head())
 | prompts.hosting   | available | $309.99   | $329.99       | 54             | 39     | 7      | namesilo  |
 | bankers.hosting   | premium   | $1,729    | $1,729        | 52             | 11     | 7      | namesilo  |
 | aliens.hosting    | available | $309.99   | $329.99       | 56             | 35     | 6      | namesilo  |
-| studs.hosting     | premium   | $1,820    | $1,820        | 69             | 7      | 5      | namecheap |
+| studs.hosting     | premium   | $1,820    | $1,820        | 69             | 9      | 5      | namecheap |
 | spectra.hosting   | available | $398      | —             | 62             | 34     | 7      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
