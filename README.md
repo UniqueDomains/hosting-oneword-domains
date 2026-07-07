@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .hosting one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,637 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,637 domains · **Median ask:** $414.21 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,637 domains · **Median ask:** $382.44 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/hosting`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/hosting`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HOSTING one-word doma
 
 ### Files
 
-- `hosting.csv` — public CSV extract (1,000 rows)
-- `hosting.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `hosting.csv`, public CSV extract (1,000 rows)
+- `hosting.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| winners.hosting   | available | $309.99   | $329.99       | 60             | 81     | 7      | namesilo  |
-| discount.hosting  | resell    | —         | —             | 74             | 28     | 8      | 1API GmbH |
-| regions.hosting   | premium   | $1,820    | $1,820        | 64             | 59     | 7      | namecheap |
-| RedSox.hosting    | available | $398      | —             | 72             | 60     | 7      | namecheap |
-| doctors.hosting   | premium   | $1,820    | $1,820        | 56             | 26     | 7      | namecheap |
-| agents.hosting    | available | $398      | —             | 56             | 50     | 6      | namecheap |
-| comics.hosting    | premium   | $1,820    | $1,820        | 68             | 23     | 6      | namecheap |
-| jobs.hosting      | available | $398      | —             | 79             | 42     | 4      | namecheap |
-| bills.hosting     | premium   | $1,820    | $1,820        | 54             | 19     | 5      | namecheap |
-| coins.hosting     | available | $398      | —             | 56             | 41     | 5      | namecheap |
-| stronger.hosting  | premium   | $1,820    | $1,820        | 67             | 17     | 8      | namecheap |
-| shortcuts.hosting | available | $398      | —             | 48             | 41     | 10     | namecheap |
-| beaches.hosting   | premium   | $1,729    | $1,729        | 72             | 14     | 7      | namesilo  |
-| lets.hosting      | available | $398      | —             | 77             | 39     | 4      | namecheap |
-| instyle.hosting   | premium   | $1,820    | $1,820        | 78             | 12     | 8      | namecheap |
-| prompts.hosting   | available | $309.99   | $329.99       | 54             | 39     | 7      | namesilo  |
-| bankers.hosting   | premium   | $1,729    | $1,729        | 52             | 11     | 7      | namesilo  |
-| aliens.hosting    | available | $309.99   | $329.99       | 56             | 35     | 6      | namesilo  |
-| studs.hosting     | premium   | $1,820    | $1,820        | 69             | 9      | 5      | namecheap |
-| spectra.hosting   | available | $398      | —             | 62             | 34     | 7      | namecheap |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aaa.hosting    | available | $309.99   | $329.99       | high           | medium | 3      | namesilo  |
+| craft.hosting  | resell    | —         | —             | high           | medium | 5      | 1API GmbH |
+| cake.hosting   | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo  |
+| all.hosting    | available | $309.99   | $329.99       | high           | medium | 3      | namesilo  |
+| review.hosting | resell    | —         | —             | high           | medium | 6      | Epik LLC  |
+| dick.hosting   | premium   | $1,729    | $1,729        | medium         | low    | 4      | namesilo  |
+| ant.hosting    | available | $398      | —             | high           | medium | 3      | namecheap |
+| ford.hosting   | premium   | $1,729    | $1,729        | high           | high   | 4      | namesilo  |
+| BBC.hosting    | available | $309.99   | $329.99       | high           | medium | 3      | namesilo  |
+| here.hosting   | premium   | $1,729    | $1,729        | high           | medium | 4      | namesilo  |
+| dig.hosting    | available | $309.99   | $329.99       | high           | low    | 3      | namesilo  |
+| jock.hosting   | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo  |
+| dog.hosting    | available | $398      | —             | high           | low    | 3      | namecheap |
+| male.hosting   | premium   | $1,729    | $1,729        | medium         | low    | 4      | namesilo  |
+| due.hosting    | available | $398      | —             | high           | low    | 3      | namecheap |
+| pray.hosting   | premium   | $1,729    | $1,729        | medium         | low    | 4      | namesilo  |
+| dye.hosting    | available | $309.99   | $329.99       | medium         | low    | 3      | namesilo  |
+| rise.hosting   | premium   | $1,820    | $1,820        | medium         | medium | 4      | namecheap |
+| feb.hosting    | available | $309.99   | $329.99       | high           | low    | 3      | namesilo  |
+| tire.hosting   | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .hosting domains. The set spans descriptive words, stronger generic terms, and broader brandable options such as striking.hosting, active.hosting, and renegade.hosting. For founders, the main question is whether the word is easy to say, easy to remember, and specific enough to support a hosting brand without sounding narrow. For investors, the key test is whether the ask leaves room for a reasonable resale outcome after renewal costs. With a median ask around $414, many names may look accessible upfront, but quality varies sharply by clarity, commercial relevance, and the strength of the exact word paired with .hosting.
+This list covers one-word domain names registered under the .hosting extension, well suited to infrastructure, cloud, and web-services brands. Names range from everyday nouns to compound-sounding single words such as whitewater, thanksgiving, and chickensoup, giving both investors and founders a wide pool to evaluate. With a median ask near $382 across 12,637 domains, pricing spans budget-friendly options to premium single-word picks. When comparing these domains, weigh brandability, renewal cost, and relevance to hosting or tech-adjacent products before committing.
 
-- All results use the .hosting extension and a one-word format
-- Median ask is about $414 across 12,638 domains
-- Prioritize clear, commercial words over obscure dictionary terms
-- Check renewal costs before judging a low ask as attractive
+- 12,637 one-word .hosting domain names in this selection
+- Median ask near $382 across the full list
+- Everyday words like inspiration, solarpower, and furnishings
+- Updated daily to reflect the latest availability and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
