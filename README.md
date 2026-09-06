@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hosting one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,761 domains · **Median ask:** $353.27 · **High-demand under $2,500:** 73
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/hosting`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| here.hosting   | premium   | $1,729    | $1,729        | high           | medium | 4      | namesilo  |
 | aaa.hosting    | available | $309.99   | $329.99       | high           | medium | 3      | namesilo  |
 | craft.hosting  | resell    | —         | —             | high           | medium | 5      | 1API GmbH |
 | cake.hosting   | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo  |
@@ -73,7 +74,6 @@ print(df.head())
 | all.hosting    | available | $309.99   | $329.99       | high           | medium | 3      | namesilo  |
 | ford.hosting   | premium   | $1,729    | $1,729        | high           | high   | 4      | namesilo  |
 | ant.hosting    | available | $398      | —             | high           | medium | 3      | namecheap |
-| here.hosting   | premium   | $1,729    | $1,729        | high           | medium | 4      | namesilo  |
 | azo.hosting    | available | $309.99   | $329.99       | low            | low    | 3      | namesilo  |
 | jock.hosting   | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo  |
 | BBC.hosting    | available | $309.99   | $329.99       | high           | medium | 3      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
