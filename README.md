@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hosting one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,507 domains · **Median ask:** $349.17 · **High-demand under $2,500:** 79
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/hosting`
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | here.hosting   | premium   | $1,729    | $1,729        | high           | medium | 4      | namesilo  |
 | azo.hosting    | available | $309.99   | $329.99       | low            | low    | 3      | namesilo  |
 | jock.hosting   | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo  |
-| BBC.hosting    | available | $309.99   | $329.99       | high           | medium | 3      | namesilo  |
+| BBC.hosting    | available | $309.99   | $429.99       | medium         | medium | 3      | namesilo  |
 | male.hosting   | premium   | $1,729    | $1,729        | medium         | low    | 4      | namesilo  |
 | dig.hosting    | available | $309.99   | $329.99       | high           | low    | 3      | namesilo  |
 | pray.hosting   | premium   | $1,729    | $1,729        | medium         | low    | 4      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
