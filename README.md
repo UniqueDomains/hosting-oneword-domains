@@ -1,10 +1,10 @@
-# Available .HOSTING One-Word Domains (14,463)
+# Available .HOSTING One-Word Domains (23,878)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C463%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C878%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hosting one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,463 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,878 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,463 domains · **Median ask:** $346.47 · **High-demand under $2,500:** 56
+**Public extract:** 1,000 rows · **Live catalog:** 23,878 domains · **Median ask:** $354.62 · **High-demand under $2,500:** 121
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/hosting`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| control.hosting | premium   | $1,690    | $1,690        | high           | low    | 7      | namecheap |
-| animal.hosting  | available | $309.99   | $429.99       | high           | low    | 6      | namesilo  |
-| message.hosting | available | $309.99   | $429.99       | high           | low    | 7      | namesilo  |
-| bread.hosting   | available | $309.99   | $429.99       | high           | low    | 5      | namesilo  |
-| natural.hosting | premium   | $1,690    | $1,690        | high           | low    | 7      | namecheap |
-| desk.hosting    | available | $309.99   | $429.99       | high           | low    | 4      | namesilo  |
-| employ.hosting  | available | $309.99   | $429.99       | high           | low    | 6      | namesilo  |
-| aaa.hosting     | available | $309.99   | $329.99       | high           | medium | 3      | namesilo  |
-| review.hosting  | resell    | —         | —             | high           | medium | 6      | Epik LLC  |
-| ing.hosting     | premium   | $1,729    | $1,729        | high           | low    | 3      | namesilo  |
-| aft.hosting     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo  |
-| adam.hosting    | premium   | $1,729    | $1,729        | high           | high   | 4      | namesilo  |
-| ant.hosting     | available | $398      | —             | high           | medium | 3      | namecheap |
-| bond.hosting    | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo  |
-| azo.hosting     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo  |
-| dick.hosting    | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo  |
-| bar.hosting     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo  |
-| ford.hosting    | premium   | $1,729    | $1,729        | high           | high   | 4      | namesilo  |
-| bus.hosting     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo  |
-| jock.hosting    | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| age.hosting       | available | $309.99   | $429.99       | high           | low    | 3      | namesilo                                                  |
+| cheap.hosting     | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| car.hosting       | premium   | $1,690    | $1,690        | high           | medium | 3      | namecheap                                                 |
+| alb.hosting       | available | $309.99   | $429.99       | high           | low    | 3      | namesilo                                                  |
+| marijuana.hosting | resell    | —         | —             | high           | low    | 9      | 1API GmbH                                                 |
+| body.hosting      | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo                                                  |
+| ash.hosting       | available | $309.99   | $329.99       | high           | low    | 3      | namesilo                                                  |
+| grow.hosting      | premium   | $1,690    | $1,690        | high           | medium | 4      | namecheap                                                 |
+| auk.hosting       | available | $309.99   | $429.99       | high           | low    | 3      | namesilo                                                  |
+| head.hosting      | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo                                                  |
+| bid.hosting       | available | $309.99   | $329.99       | high           | low    | 3      | namesilo                                                  |
+| karl.hosting      | premium   | $1,690    | $1,690        | high           | low    | 4      | namecheap                                                 |
+| box.hosting       | available | $309.99   | $429.99       | high           | high   | 3      | namesilo                                                  |
+| laws.hosting      | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo                                                  |
+| cbs.hosting       | available | $309.99   | $429.99       | high           | medium | 3      | namesilo                                                  |
+| loon.hosting      | premium   | $1,690    | $1,690        | high           | low    | 4      | namecheap                                                 |
+| die.hosting       | available | $398      | —             | high           | low    | 3      | namecheap                                                 |
+| snap.hosting      | premium   | $1,729    | $1,729        | high           | medium | 4      | namesilo                                                  |
+| dry.hosting       | available | $309.99   | $429.99       | high           | low    | 3      | namesilo                                                  |
+| alarm.hosting     | premium   | $1,690    | $1,690        | high           | low    | 5      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,463 live domains                        |
+| 1,000-row public sample | 23,878 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 56 high-demand names under $2,500          |
+| Basic exported fields   | 121 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
