@@ -1,10 +1,10 @@
-# Available .HOSTING One-Word Domains (24,858)
+# Available .HOSTING One-Word Domains (25,458)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C858%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C458%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .hosting one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,858 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,458 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,858 domains · **Median ask:** $354.48 · **High-demand under $2,500:** 131
+**Public extract:** 1,000 rows · **Live catalog:** 25,458 domains · **Median ask:** $354.16 · **High-demand under $2,500:** 135
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/hosting`
@@ -77,13 +77,13 @@ print(df.head())
 | bid.hosting       | available | $309.99   | $329.99       | high           | low    | 3      | namesilo                                                  |
 | laws.hosting      | premium   | $1,729    | $1,729        | high           | low    | 4      | namesilo                                                  |
 | box.hosting       | available | $309.99   | $429.99       | high           | high   | 3      | namesilo                                                  |
-| loon.hosting      | premium   | $1,690    | $1,690        | high           | low    | 4      | namecheap                                                 |
-| cbs.hosting       | available | $309.99   | $429.99       | high           | medium | 3      | namesilo                                                  |
 | snap.hosting      | premium   | $1,729    | $1,729        | high           | medium | 4      | namesilo                                                  |
-| die.hosting       | available | $398      | —             | high           | low    | 3      | namecheap                                                 |
+| cbs.hosting       | available | $309.99   | $429.99       | high           | medium | 3      | namesilo                                                  |
 | alarm.hosting     | premium   | $1,690    | $1,690        | high           | low    | 5      | namecheap                                                 |
-| dry.hosting       | available | $309.99   | $429.99       | high           | low    | 3      | namesilo                                                  |
+| die.hosting       | available | $398      | —             | high           | low    | 3      | namecheap                                                 |
 | bills.hosting     | premium   | $1,729    | $1,729        | medium         | low    | 5      | namesilo                                                  |
+| dry.hosting       | available | $309.99   | $429.99       | high           | low    | 3      | namesilo                                                  |
+| fedex.hosting     | premium   | $1,729    | $1,729        | high           | low    | 5      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,858 live domains                        |
+| 1,000-row public sample | 25,458 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 131 high-demand names under $2,500         |
+| Basic exported fields   | 135 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
