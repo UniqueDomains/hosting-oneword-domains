@@ -1,10 +1,10 @@
-# Available .HOSTING One-Word Domains (34,052)
+# Available .HOSTING One-Word Domains (36,474)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C052%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C474%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hosting one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **34,052 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,474 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 34,052 domains · **Median ask:** $346.69 · **High-demand under $2,500:** 195
+**Public extract:** 1,000 rows · **Live catalog:** 36,474 domains · **Median ask:** $344.91 · **High-demand under $2,500:** 205
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/hosting`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | marijuana.hosting | resell    | —         | —             | high           | low    | 9      | 1API GmbH  |
 | car.hosting       | premium   | $1,430    | $1,430        | high           | medium | 3      | dynadot    |
 | alb.hosting       | available | $309.99   | $429.99       | high           | low    | 3      | namesilo   |
-| ve.hosting        | premium   | $1,345.70 | $1,345.70     | high           | low    | 3      | spaceship  |
-| ash.hosting       | available | $279.65   | $341.75       | high           | medium | 3      | spaceship  |
-| grow.hosting      | premium   | $1,690    | $1,690        | high           | medium | 4      | namecheap  |
+| dnc.hosting       | premium   | $1,345.70 | $1,345.70     | high           | low    | 3      | spaceship  |
 | ata.hosting       | available | $310.98   | $437.98       | medium         | low    | 3      | namecheap  |
-| karl.hosting      | premium   | $1,690    | $1,690        | high           | low    | 4      | namecheap  |
+| ve.hosting        | premium   | $1,345.70 | $1,345.70     | high           | low    | 3      | spaceship  |
 | auk.hosting       | available | $309.99   | $429.99       | medium         | low    | 3      | namesilo   |
-| laws.hosting      | premium   | $1,345.70 | $1,345.70     | high           | low    | 4      | spaceship  |
+| grow.hosting      | premium   | $1,690    | $1,690        | high           | medium | 4      | namecheap  |
 | bna.hosting       | available | $300.20   | $300.20       | medium         | low    | 3      | cloudflare |
-| zoom.hosting      | premium   | $1,430    | $1,430        | high           | medium | 4      | dynadot    |
+| karl.hosting      | premium   | $1,690    | $1,690        | high           | low    | 4      | namecheap  |
 | box.hosting       | available | $309.99   | $429.99       | high           | high   | 3      | namesilo   |
-| bills.hosting     | premium   | $1,729    | $1,729        | medium         | low    | 5      | namesilo   |
+| laws.hosting      | premium   | $1,345.70 | $1,345.70     | high           | low    | 4      | spaceship  |
 | cbs.hosting       | available | $309.99   | $429.99       | high           | medium | 3      | namesilo   |
-| fedex.hosting     | premium   | $1,345.70 | $1,345.70     | high           | low    | 5      | spaceship  |
+| wnba.hosting      | premium   | $1,345.70 | $1,345.70     | high           | high   | 4      | spaceship  |
 | ccd.hosting       | available | $279.65   | $341.75       | high           | low    | 3      | spaceship  |
-| fleet.hosting     | premium   | $1,690    | $1,690        | high           | high   | 5      | namecheap  |
-| ctv.hosting       | available | $309.99   | $429.99       | high           | low    | 3      | namesilo   |
+| zoom.hosting      | premium   | $1,430    | $1,430        | high           | medium | 4      | dynadot    |
+| dba.hosting       | available | $300.20   | $300.20       | high           | low    | 3      | cloudflare |
+| bills.hosting     | premium   | $1,729    | $1,729        | medium         | low    | 5      | namesilo   |
+| dia.hosting       | available | $300.20   | $300.20       | high           | medium | 3      | cloudflare |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 34,052 live domains                        |
+| 1,000-row public sample | 36,474 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 195 high-demand names under $2,500         |
+| Basic exported fields   | 205 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOSTING One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
